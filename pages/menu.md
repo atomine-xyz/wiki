@@ -1,4 +1,4 @@
-- [Atomine - приватный Minecraft сервер](/wiki/)
+- [Atomine - приватный сервер](/wiki/)
 - ## Обязательные моды и ресурспак
     - [Голосовой чат](/wiki/require/voicechat)
     - [Ресурспак](/wiki/require/resourcepack)
