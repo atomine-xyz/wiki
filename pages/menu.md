@@ -1,16 +1,16 @@
-- Atomine - приватный Minecraft сервер
-- Обязательные моды и ресурспак
-    - Голосовой чат
-    - Ресурспак
-- Полезная информация
-    - Правила
-    - Как получить роль игрока
-    - Спонсорская подписка
-    - Валюта
-    - Онлайн карта
-    - Команды
-    - Особенные механики
-- Плагины
-    - Химия
-    - Невидимые рамки
-    - Стойка для брони
+- ## [Atomine - приватный Minecraft сервер](/wiki/)
+- ## Обязательные моды и ресурспак
+    - [Голосовой чат](/wiki/require/voicechat)
+    - [Ресурспак](/wiki/require/resourcepack)
+- ## Полезная информация
+    - [Правила](/wiki/useful/rules)
+    - [Как получить роль игрока](/wiki/useful/getrole)
+    - [Спонсорская подписка](/wiki/useful/sponsor)
+    - [Валюта](/wiki/useful/currency)
+    - [Онлайн карта](/wiki/useful/dynmap)
+    - [Команды](/wiki/useful/commands)
+    - [Особенные механики](/wiki/useful/specialfeatures)
+- ## Плагины
+    - [Химия](/wiki/plugins/chemistry)
+    - [Невидимые рамки](/wiki/plugins/invisframe)
+    - [Стойка для брони](/wiki/plugins/armorstand)
