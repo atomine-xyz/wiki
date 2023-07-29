@@ -8,6 +8,7 @@
     - [🏜 Онлайн карта](/wiki/useful/dynmap)
     - [💻 Команды](/wiki/useful/commands)
     - [🔧 Особенные механики](/wiki/useful/specialfeatures)
+    - [🌎 Система миров](/wiki/useful/worlds)
 - ## Обязательные моды и ресурспак
     - [🎤 Голосовой чат](/wiki/require/voicechat)
     - [🏞 Ресурспак](/wiki/require/resourcepack)
