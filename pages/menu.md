@@ -14,3 +14,4 @@
     - [🧪 Химия](/wiki/plugins/chemistry)
     - [🖼 Невидимые рамки](/wiki/plugins/invisframe)
     - [👕 Стойка для брони](/wiki/plugins/armorstand)
+    - [🎭 Смена скина](/wiki/plugins/skins)
