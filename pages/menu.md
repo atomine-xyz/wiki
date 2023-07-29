@@ -4,6 +4,7 @@
     - [🏞 Ресурспак](/wiki/require/resourcepack)
 - ## Полезная информация
     - [📕 Правила](/wiki/useful/rules)
+    - [🎮 Bedrock](/wiki/useful/Bedrock)
     - [👤 Как получить роль игрока](/wiki/useful/getrole)
     - [🔶 Спонсорская подписка](/wiki/useful/sponsor)
     - [💲 Валюта](/wiki/useful/currency)
