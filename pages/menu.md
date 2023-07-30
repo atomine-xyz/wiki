@@ -12,6 +12,7 @@
 - ## Обязательные моды и ресурспак
     - [🎤 Голосовой чат](/wiki/require/voicechat)
     - [🏞 Ресурспак](/wiki/require/resourcepack)
+    - [🤸‍♂️ EmoteCraft](/wiki/require/emotecraft)
 - ## Плагины
     - [🧪 Химия](/wiki/plugins/chemistry)
     - [🖼 Невидимые рамки](/wiki/plugins/invisframe)
