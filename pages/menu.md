@@ -19,4 +19,5 @@
      [👕 Стойка для брони](/wiki/plugins/armorstand)\
      [🎭 Смена скина](/wiki/plugins/skins)\
      [🛌 Пропуск ночи](/wiki/plugins/night)\
-     [📽 Позы и эмоции](/wiki/plugins/pose)
+     [📽 Позы и эмоции](/wiki/plugins/pose)\
+     [🍺 Brewery](/wiki/useful/brewery)
