@@ -4,7 +4,7 @@
   Зачем нужно лобби?
   В лобби стоят 3 NPC - Юджин, и 2 NPC, отвечающие за телепорт в конкретные миры. Отсюда вы теперь знаете, что теперь сервер разделен на 2 мира:
 
-| ![2](https://static.wixstatic.com/media/883c50_11f1a4c76ce5457a93c7dd699eba98d7~mv2.png/v1/fill/w_600,h_337,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/untitled3.png) | ![1](https://static.wixstatic.com/media/883c50_6620660d1b2444f2bc165b3e001b70f0~mv2.png/v1/fill/w_600,h_337,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/untitled4.png) |
+|![undefined - Imgur (1)](https://github.com/atomine-xyz/wiki/assets/118691143/4f8fb127-c0af-4541-b55b-0cb5999add9a) | ![undefined - Imgur](https://github.com/atomine-xyz/wiki/assets/118691143/9c7f7e33-1c3f-4ce0-8770-108fdbea1daf)|
 | ------------- | ------------- |
 | Мир построек - Мир, в котором происходят все действия на сервере: постройка городов, создание и проведение ивентов, RolePlay, общение и прочее.  | Мир ферм - Мир, созданный специально для постройки авто-ферм, выкапывания больших ям и фарма большого количества ресурсов.  |
 
