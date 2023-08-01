@@ -6,4 +6,4 @@ Minecraft Java Edition и Bedrock 1.20.X. Можно играть как и с �
 \
 \
 \
-![](https://i.imgur.com/WILLH4z.png)
+![Логотип Atom](https://i.imgur.com/kanw5rp.png)
