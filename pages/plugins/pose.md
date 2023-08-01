@@ -14,4 +14,4 @@
 Примеры подобных анимаций можно видеть ниже: 
 
 
-![2023-07-30 02-50-43](https://github.com/atomine-xyz/wiki/assets/118691143/3345055d-2770-45ab-97b7-8ebbbd6f38de)
+![демонстрация эмоций](https://github.com/atomine-xyz/wiki/assets/118691143/3345055d-2770-45ab-97b7-8ebbbd6f38de)
