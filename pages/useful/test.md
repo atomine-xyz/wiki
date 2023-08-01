@@ -24,6 +24,7 @@ Minecraft Java Edition и Bedrock 1.20.X. Можно играть как и с �
 <details>
     <summary>Java / ПК версия</summary>
     <p>
+    
 ````
 ip для java - play.atomine.xyz
 ````
@@ -41,7 +42,7 @@ ip для java - play.atomine.xyz
 ````
 ip для бедрока - bedrock.atomine.xyz
 порт - 25734
-```` 
+````
 
 заполненные поля должны выглядеть вот так:
 
