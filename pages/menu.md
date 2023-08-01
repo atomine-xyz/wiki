@@ -18,4 +18,4 @@
      [🎭 Смена скина](/wiki/plugins/skins)\
      [🛌 Пропуск ночи](/wiki/plugins/night)\
      [📽 Позы и эмоции](/wiki/plugins/pose)\
-     [🍺 Алковарение](/wiki/useful/brewery)
+     [🍺 Алковарение](/wiki/plugins/brewery)
