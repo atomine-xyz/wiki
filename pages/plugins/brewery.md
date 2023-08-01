@@ -156,4 +156,4 @@
 
 
 
-<iframe width="1903" height="782" src="https://www.youtube.com/embed/D_bD3CAlL8Y" title="2023 08 01 16 37 38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="600" src="https://www.youtube.com/embed/D_bD3CAlL8Y" title="2023 08 01 16 37 38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
