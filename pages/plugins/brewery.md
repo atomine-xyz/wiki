@@ -25,12 +25,12 @@
 1. После нескольких циклов дистилляции (зависит от напитка), заберите бутылки назад.
 > **Примечание**: некоторые рецепты не требуют этого шага.
 
-![](https://static.wixstatic.com/media/883c50_adb06784152742ab98352e2ad231b9a2~mv2.gif)
+![Alt text](https://cdn.discordapp.com/attachments/984887920647360572/1135941952165118043/2023-08-01_17-11-06.gif)
 ## Настойка
 Для настойки напитков необходим один из трёх видов бочек.
-| ***Маленькая бочка*** |![](https://static.wixstatic.com/media/883c50_2c29e0498058492b8edaf510961762cb~mv2.png/v1/fill/w_526,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2022-03-30_13_14_17.png) ![](https://static.wixstatic.com/media/883c50_a5fb26dfec234ed1b6b45a54c58b1726~mv2.png/v1/fill/w_526,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2022-03-30_13_14_21.png)|
+| ***Маленькая бочка*** |![Alt text](https://cdn.discordapp.com/attachments/984887920647360572/1135941215112671323/image.png)|
 |-----------------|-----------------|
-| ***Средняя бочка*** |![](https://static.wixstatic.com/media/883c50_1d5c868b6cb7419c83155433924f3316~mv2.png/v1/fill/w_526,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2022-03-30_13_18_11.png) ![](https://static.wixstatic.com/media/883c50_230712698e1d48cca14404bb7bfda6e6~mv2.png/v1/fill/w_526,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2022-03-30_13_17_49.png)|
+| ***Средняя бочка*** | ![Alt text](https://cdn.discordapp.com/attachments/984887920647360572/1135940257460797601/image.png) |
 
 ### Процесс настойки
 
