@@ -17,7 +17,7 @@
 
 > **Подсказка**: чтобы узнать текущее время ферментации, нажмите на котёл ПКМ с часами в руке.
 
-![](https://static.wixstatic.com/media/883c50_dd2bdff9f4564f9f9aa0635548badf6f~mv2.gif)
+![Alt text](https://cdn.discordapp.com/attachments/984887920647360572/1135935237080236112/2023-08-01_16-37-38.gif)
 
 ## Дистилляция
 1. Поставьте бутылки с полученным из прошлого шага содержимым в зельеварку.
@@ -153,7 +153,3 @@
 + Без дистилляции
 + Настаивать 3 дня
 + Уровень опьянения I+
-
-
-
-<iframe width="600" height="330" src="https://www.youtube.com/embed/D_bD3CAlL8Y" title="2023 08 01 16 37 38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
